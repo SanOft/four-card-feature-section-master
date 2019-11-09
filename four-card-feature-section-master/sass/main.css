@@ -1,0 +1,48 @@
+body {
+  font-size: 12px;
+  background-color: #fafafa; }
+
+.head {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  margin-bottom: 0; }
+
+h3 {
+  text-align: center; }
+
+.description {
+  margin-top: 1rem;
+  text-align: center;
+  font-size: 12px; }
+
+.line-top-cyan {
+  border: 3px solid #45d3d3;
+  border-radius: 45px 45px 0 0; }
+
+.line-top-red {
+  border: 3px solid #ea5353;
+  border-radius: 45px 45px 0 0; }
+
+.line-top-orange {
+  border: 3px solid #fcaf4a;
+  border-radius: 45px 45px 0 0; }
+
+.line-top-blue {
+  border: 3px solid #549ef2;
+  border-radius: 45px 45px 0 0; }
+
+.cards {
+  box-sizing: border-box;
+  padding-left: 9rem; }
+
+.card {
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-shadow: -1px 12px 26px -8px rgba(156, 156, 156, 0.92); }
+
+img {
+  width: 20%; }
+
+/*# sourceMappingURL=main.css.map */
